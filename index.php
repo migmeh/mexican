@@ -47,8 +47,8 @@
    <div id="contenedor_dos">
 
     <div id="dos" >
-    <h1>15 de septiembre</h1>
-    <h2> día de la Independencia de México</h2>
+    <h1>El día 15 de septiembre</h1>
+    <h2>Pagina del día de la Independencia de México</h2>
     <br />
     	<p>Todos los años el 15 de septiembre en México se festeja el dia de la independencia como parte de nuestras tradiciones, realicé este micrositio como parte de la celebración.</p><br />
         <p>El 16 de septiembre es el Día de la Independencia en México desde que ésta se proclamó. El término popular español para esta celebración es el Grito de Dolores</p><br />
